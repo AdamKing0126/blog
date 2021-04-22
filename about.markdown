@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a software developer based out of San Marcos, Texas (25 miles south of Austin).  I work at [Doctor on Demand](www.doctorondemand.com) as a backend python engineer, but I've done some work on the front end (React, Vanilla JS) as well.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I spun this blog up to track my progress on side projects, in the hopes that this will give me a little accountability to myself.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In the tradition of other developer blogs, I'll inevitably end up posting only three or four times before abandoning it.
 
-
-[jekyll-organization]: https://github.com/jekyll
